@@ -4,7 +4,7 @@
 def run(): ## This is the access point to our program
 
     # Phase 1: Fetch VNS
-
+    
 
     # Phase 2: Speech to Text
 
