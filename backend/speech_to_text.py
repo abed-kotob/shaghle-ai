@@ -12,3 +12,9 @@ class Speech_to_Text:
     def iterate(): #Iterates over the new vns collected from access_vns and applies speech_to_text_run
 
         return
+
+    def check_length(): #Check if splitting is required
+        return 
+
+    def split_vn(): #if vn is long, split it and then apply speech to text if necessary
+        return
